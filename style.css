@@ -125,7 +125,7 @@
 .notification-2{
     display: none;
 }
-#left{
+.left{
     margin: 5px;
     font-size: 12px;
     color: hsl(229, 7%, 55%);
